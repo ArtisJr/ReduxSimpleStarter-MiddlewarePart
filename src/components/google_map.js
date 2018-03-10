@@ -11,7 +11,6 @@ class GoogleMap extends Component {
     });
   }
   render() {
-    // this.refs.map
     return (
       <div
         ref={div => {
